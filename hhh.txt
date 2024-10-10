@@ -1,0 +1,30 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
+    <title>Mi pagina web</title>
+</head>
+<body>
+    <nav></nav>
+    <h1 style="font-size:50px;">Mi primera pagina web</h1>
+    <main> <p>
+        Soy Juan Pablo Bazán, tengo 19 años y estudio en la Técnica N1. Vivo en el barrio Gral. Paz y tengo la intención de seguir la carrera de programador universitario al finalizar mis estudios  secundarios. Me apasiona la tecnología y estoy emocionado por las oportunidades que me depara el futuro en el mundo de la programación.
+    </p>
+    <img src="c:\Users\Usuario\Desktop\Bazan Juan Pablo programacion\353ad9619623b527859c9ce2d07dbcac.jpg" alt="foto de la mascota" height="400" width="400">
+    <hr  style="font-size:50px;">
+    
+    <h2> Hobbies </h2>
+        <ul>
+            <li>Salir los fin de semanas</li>
+            <li>futbol</li>
+            <li>programar</li>
+        </ul>
+    </main>
+        <footer>
+            
+
+        </footer>
+</body>
+</html>
